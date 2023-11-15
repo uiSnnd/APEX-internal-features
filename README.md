@@ -13,3 +13,4 @@ Current features:
                  5：No back seat
                  5：Super Glide
                  
+Dedicated to learning and communication
